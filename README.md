@@ -18,4 +18,4 @@
 - 📧 Email: [tanishakshukla08@gmail.com](mailto:tanishakshukla08@gmail.com)
 - 💼 LinkedIn: [Tanishak Shukla](https://www.linkedin.com/in/tanishak-shukla-692238204/)
 - 🐦 Twitter: [@Offendedtanishq](https://twitter.com/Offendedtanishq)
-- 💼 LeetCode: [Tanishak Shukla] (https://leetcode.com/tanishakshukla08/)
+- 💼 LeetCode: [Tanishak Shukla](https://leetcode.com/tanishakshukla08/)
